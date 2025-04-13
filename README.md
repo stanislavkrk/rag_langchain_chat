@@ -1,26 +1,3 @@
----
-title: "LangChain RAG Chat"
-emoji: "💬"
-colorFrom: "blue"
-colorTo: "green"
-sdk: "gradio"
-sdk_version: "3.0"
-python_version: "3.10"
-app_file: "run_fast_api.py"
-fullWidth: true
-header: "default"
-short_description: "AI-powered chatbot for cocktail recommendations."
-models: 
-  - "openai/gpt-3.5-turbo"
-datasets: 
-  - "cocktail_data/cocktails.csv"
-tags:
-  - "RAG"
-  - "LangChain"
-  - "Chatbot"
-pinned: true
----
-
 
 # Cocktail RAG Chat
 
